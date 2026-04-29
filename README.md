@@ -9,7 +9,8 @@ Codex also handled many technically hard tasks that would not only have taken a 
 - Generating sound effects by writing bytes directly to a .wav file ad then using gpt-4o-mini-tts to make speech.
 - Using gpt-image-2 to generate graphics and ui designs to implement and iteratively review.
 - Reusing open source graphics
--
+- Building multplayer server
+- Procedural maze (new game map each time)
 
 ## How to run
 
@@ -20,3 +21,8 @@ pnpm install
 ```bash
 pnpm dev
 ```
+
+## Team
+
+- Lawson (github.com/lawsonoates)
+- Kwabena (github.com/kbediako)
