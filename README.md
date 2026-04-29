@@ -12,6 +12,8 @@ Codex also handled many technically hard tasks that would not only have taken a 
 - Building multplayer server
 - Procedural maze (new game map each time)
 
+Fun fact: 90% of the code was generated using gpt-5.5 extra high from a single uninterrupted run of ~4hrs.
+
 ## How to run
 
 ```bash
